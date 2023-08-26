@@ -1,4 +1,4 @@
-#Sophia Yang's First CS193 Homework
+##Sophia Yang's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,11 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-
-
-
 - Taught by students, so it feels more accessible
 - Content is taught by those who have taken the actual courses I will be in which makes me more assured the content I am learning is useful for my success
 - Allows me to practice skills necessary for success in CS
